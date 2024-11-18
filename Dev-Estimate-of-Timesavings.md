@@ -5,7 +5,7 @@ Intended to gather estimated quantitative measurements regarding Copilot level o
 
 **\* Indicates required question**
 
-### 1. Did you use Copilot over the last week?
+### 1. Did you use Copilot for this PR?
 
 - Choose one 
 
